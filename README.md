@@ -1,5 +1,5 @@
-# NOD_2024_LanguagesForWorkWithData_Homework-2
-That's a repo with 10 files with tasks
+# NOD_2024_LanguagesForWorkWithData_Homework-final
+That's a repo with 4 files with tasks
 
 ## Document with tasks: 
-https://docs.google.com/document/d/1Paf8Qo3BsAGR-k5hR2Y0ZDZZ3XXdgy0F7BBLL4xeBZA/edit?tab=t.0
+https://docs.google.com/document/d/1yxh5NX1yINn3uoQGuuE9KRoUkCcIvw-43OcADtqx9pY/edit?usp=sharing
